@@ -37,3 +37,5 @@
 
 ## Video Demo 
 * Check out the [video demo](https://youtu.be/MeCJ6vDNzQg) for more clarifications on how to deploy.
+
+* ![alt text](https://github.com/AllenStar-dev/story_maker/blob/main/src/static/web-app-preview.png)
