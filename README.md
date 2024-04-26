@@ -19,6 +19,7 @@
 * For this build  Select Build Your Template.
 * You can name the deployment.
 * Click YAML and Paste the SDL (Your own or pre-built).
+* Check this [Readmefile](https://github.com/AllenStar-dev/story_maker/blob/main/README.md?plain=1).
 * My SDL [deploy.yaml](https://github.com/AllenStar-dev/story_maker/blob/main/deploy.yaml).
 * Click Create Deployment.
 * You'll receive a transaction request in the wallet.
