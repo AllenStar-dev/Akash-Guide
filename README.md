@@ -1,4 +1,4 @@
-# Akash Guide For Creating and Deploying Applications.
+## Akash Guide For Creating and Deploying Applications.
 
 * Install and fund the Wallet.
 
