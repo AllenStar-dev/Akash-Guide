@@ -1,0 +1,38 @@
+---
+version: "2.0"
+services:
+  chatbot:
+    image: chicha21/story_maker:1.0
+    expose:
+      - port: 5000
+        as: 5000
+        to:
+          - global: true
+    env:
+      - PORT=5000
+profiles:
+  compute:
+    chatbot:
+      resources:
+        cpu:
+          units: 2
+        memory:
+          size: 5Gi
+        storage:
+          - size: 10Gi
+        gpu:
+          units: 1
+          attributes:
+            vendor:
+              nvidia:
+  placement:
+    dcloud:
+      pricing:
+        chatbot:
+          denom: uakt
+          amount: 1000
+deployment:
+  chatbot:
+    dcloud:
+      profile: chatbot
+      count: 1
