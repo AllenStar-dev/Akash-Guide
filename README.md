@@ -33,3 +33,6 @@
 * For More help reach out to [Akash Discord](https://discord.com/channels/747885925232672829/1111762591937732648).
 * Also Check [Akash Docs](https://akash.network/docs/deployments/cloudmos-deploy/). for any further quries.
 * Happy Deploying on Akash.
+
+## Video Demo 
+* Check out the [video demo](https://youtu.be/MeCJ6vDNzQg) for more clarifications on how to deploy.
