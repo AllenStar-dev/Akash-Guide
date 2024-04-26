@@ -19,5 +19,17 @@
 * For this build  Select Build Your Template.
 * You can name the deployment.
 * Click YAML and Paste the SDL (Your own or pre-built).
-* 
-* 
+* My SDL [deploy.yaml](https://github.com/AllenStar-dev/story_maker/blob/main/deploy.yaml).
+* Click Create Deployment.
+* You'll receive a transaction request in the wallet.
+* Approve the transaction request.
+* After Approval you'll receive bids.
+* Review the bids and select the provider.
+* Accept the transaction for the provider.
+* Wait a few minutes.
+* Then go to the Leases and Click the link of url.
+* The Url redirects to your Application.
+* If Everything is successful then the link works if not recheck and redeploy.
+* For More help reach out to [Akash Discord](https://discord.com/channels/747885925232672829/1111762591937732648).
+* Also Check [Akash Docs](https://akash.network/docs/deployments/cloudmos-deploy/). for any further quries.
+* Happy Deploying on Akash.
