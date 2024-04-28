@@ -30,9 +30,9 @@
 * Wait a few minutes.
 * Then go to the Leases and Click the link of url.
 * The Url redirects to your Application.
-* If Everything is successful then the link works if not recheck and redeploy.
+* If Everything is successful then the link works if not re-check and redeploy.
 * For More help reach out to [Akash Discord](https://discord.com/channels/747885925232672829/1111762591937732648).
-* Also Check [Akash Docs](https://akash.network/docs/deployments/cloudmos-deploy/). for any further quries.
+* Also Check [Akash Docs](https://akash.network/docs/deployments/cloudmos-deploy/). for any further queries.
 * Happy Deploying on Akash.
 
 ## Video Demo 
